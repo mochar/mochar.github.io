@@ -28,6 +28,7 @@ url: "https://mochar.github.io" # the base hostname & protocol for your site, e.
 twitter_username: mocha_rr
 github_username:  mochar
 
+permalink: /:slug.html
 
 # Build settings
 #theme: minima
